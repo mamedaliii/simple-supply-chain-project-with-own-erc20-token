@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "fs": "^0.0.1-security",
+    "solc": "^0.8.16"
+  }
+}
